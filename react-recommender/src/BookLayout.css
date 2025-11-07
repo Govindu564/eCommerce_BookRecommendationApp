@@ -1,0 +1,12 @@
+
+@media (min-width: 768px) {
+  .main-content {
+    margin-left: 17%; 
+  }
+}
+
+@media (max-width: 767px) {
+  .main-content {
+    margin-left: 0 !important;
+  }
+}
